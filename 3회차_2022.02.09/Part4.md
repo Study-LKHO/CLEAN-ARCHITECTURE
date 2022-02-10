@@ -81,7 +81,7 @@ CRP는 어떤 클래스를 한데 묶어도 되는지보다는, 어떤 클래스
 REP와 CCP는 포함 inclusive 원칙 - 컴포넌트를 더욱 크게 만듬  
 CRP는 배제 exclusive 원칙 - 컴포넌트를 더욱 작게 만듬  
 
-<이미지>
+![IMG_59EC1549CA56-1](https://user-images.githubusercontent.com/24707229/153420006-047c9b22-d068-4d31-89b8-b1f5d74a871d.jpeg)  
 <출처 - Clen Architecture e-book 캡처>
 
 REP와 CRP에만 중점을 두면, 사소한 변경이 생겼을 때 너무 많은 컴포넌트에 영향을 미치는 상황이 발생  
