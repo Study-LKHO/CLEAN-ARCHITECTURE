@@ -10,9 +10,8 @@
 
 ## NOTE
 
-|Title|Date|
+|Part|Date|
 |:-----:|:---:|
-|[1주차](https://github.com/Study-LKHO/CLEAN-ARCHITECTURE/blob/main/Note/1회차_2021.01.18)|~ 2022.01.25|
-|[2주차](https://github.com/Study-LKHO/CLEAN-ARCHITECTURE/blob/main/Note/2회차_2022.02.02)|~ 2022.02.02|
-|[3주차](https://github.com/Study-LKHO/CLEAN-ARCHITECTURE/blob/main/Note/3회차_2022.02.09)|~ 2022.02.09|
-|[4주차](https://github.com/Study-LKHO/CLEAN-ARCHITECTURE/blob/main/Note/4회차_2022.02.16)|~ 2022.02.16|
+|[Part 1](https://github.com/Study-LKHO/CLEAN-ARCHITECTURE/blob/main/1%ED%9A%8C%EC%B0%A8_2021.01.18/Part1.md)|~ 2022.01.25|
+|[Part 2](https://github.com/Study-LKHO/CLEAN-ARCHITECTURE/blob/main/1%ED%9A%8C%EC%B0%A8_2021.01.18/Part2.md)|~ 2022.01.25|
+|[Part 3](https://github.com/Study-LKHO/CLEAN-ARCHITECTURE/blob/main/2%ED%9A%8C%EC%B0%A8_2022.02.02/Part3.md)|~ 2022.02.02|
