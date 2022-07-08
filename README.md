@@ -1,4 +1,5 @@
-# CLEAN-ARCHITECTURE
+# clean-architecture-book-study
+
 
 
 ## STUDY RULE
